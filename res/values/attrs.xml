@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WidgetPie">
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+       	<attr name="showList" format="boolean"/>
+       	<attr name="typeText" format="string"/>
+    </declare-styleable>
+    
+    
+</resources>
