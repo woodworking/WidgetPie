@@ -50,6 +50,9 @@ public class PieChart extends View {
 	private float mRowSpace = 0;
 	private float mDefaultHeight = 0;
 	private float mCenterRadius = 0;
+	
+	
+	
 
 	public PieChart(Context context, AttributeSet attrs) {
 		super(context, attrs);
